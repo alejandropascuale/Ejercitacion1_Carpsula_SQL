@@ -1,0 +1,2 @@
+DELETE FROM CURSO
+WHERE cod_curso = 101
